@@ -1,0 +1,6 @@
+photon.m                                    光子模拟主程序
+interpolateSections.m                  能量对应截面插值函数
+exponential_random_samples.m   指数分布随机数抽样函数
+normal_distribution.m                  正态分布处理函数
+Omega_m_calculate.m                 第m次碰撞后方向计算函数
+alpha_calculate.m                        α计算函数
